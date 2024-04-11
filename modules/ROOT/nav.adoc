@@ -1,0 +1,2 @@
+[ROOT]
+* xref:index.adoc[]
